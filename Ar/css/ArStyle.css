@@ -1,0 +1,17 @@
+.ar_alg{
+    direction: rtl;
+}
+.ar_font_alg{
+    text-align: right;
+}
+.ar_size_hd{
+    font-size: 4rem;
+}
+
+.flot_alg{
+    float: right;
+}
+
+.eng_alg{
+    direction: ltr;
+}
